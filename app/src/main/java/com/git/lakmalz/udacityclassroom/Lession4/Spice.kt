@@ -27,5 +27,5 @@ class Spice(val name: String, val spiciness: String = "mild") {
     }
 
     fun makeSalt() = Spice("Spice")
-    
+
 }

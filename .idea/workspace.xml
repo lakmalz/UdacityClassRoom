@@ -14,22 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76027f56-9341-427e-82bf-942c9a990d73" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/Lession4/Fish.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/Lession4/SimpleSpice.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/Lession4/Spice.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/Lession4/Aquarium.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/Lession4/Aquarium.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/Lession4/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/Lession4/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/MainActivity.kt" afterDir="false" />
-    </list>
+    <list default="true" id="76027f56-9341-427e-82bf-942c9a990d73" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +57,8 @@
       <file leaf-file-name="Spice.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/Lession4/Spice.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="474">
+              <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -2718,7 +2703,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="771" height="900" extended-state="6" />
+    <frame x="0" y="0" width="777" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
@@ -2736,7 +2721,7 @@
       <window_info id="Captures" order="2" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19615912" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19455782" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32848486" />
       <window_info anchor="right" id="Gradle" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -2879,8 +2864,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/git/lakmalz/udacityclassroom/Lession4/Spice.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="474">
+          <caret line="29" column="4" lean-forward="true" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
         </state>
       </provider>
     </entry>
